@@ -4,7 +4,7 @@
 Practice basic SQL SELECT queries to filter, sort, and retrieve data.
 
 ## Tools:
-- DB Browser for SQLite
+- DB Browser for MYSQL WORKBRENCH
 
 ## Queries Included:
 - SELECT *
