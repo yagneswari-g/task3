@@ -11,6 +11,8 @@ Practice basic SQL SELECT queries to filter, sort, and retrieve data.
 - WHERE, AND, OR, LIKE, BETWEEN
 - ORDER BY, LIMIT
 - Aliasing and DISTINCT
+##DATABASE
+- employees.csv
 
 ## Author:
 Yagneswari Gangireddy
